@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jabril, an <a href="https://linkedin.com/in/Jabril">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jabril, a help desk professional 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
