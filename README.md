@@ -4,7 +4,7 @@
 
 
 - VPN Setup and Usage <ProtonVPN>
-  - [Vpn: Set-up Configuration and usage](https://github.com/Jabril09/set-up-config)https://github.com/Jabril09/VPN-Setup-and-Usage-ProtonVPN-.git
+  - [Vpn: Set-up Configuration and usage](https://github.com/Jabril09/VPN-Setup-and-Usage-ProtonVPN-.git)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Jabril09/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jabril09/azure-network-protocols)
